@@ -2,7 +2,7 @@
 
 Helm chart repository provided by Frankie516c
 
-        helm repo add nginx-helm-repo https://github.com/frankie516c/nginx-helm-repo/
+        helm repo add nginx-helm-repo https://frankie516c.github.io/nginx-helm-repo/
         helm repo list
         helm repo update
         helm search repo mynginx

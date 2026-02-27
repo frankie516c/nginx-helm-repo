@@ -3,7 +3,17 @@ entries:
   mynginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-02-27T10:47:34.3207206+09:00"
+    created: "2026-02-27T11:09:38.6594607+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 30b98047099f3094783981fc0a722a6f1c35cbf732ecf8aa0da92dd2089de606
+    name: mynginx
+    type: application
+    urls:
+    - mynginx-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-02-27T11:09:38.658942+09:00"
     description: A Helm chart for Kubernetes
     digest: 57107e83d5b86b96562dc9c67c9ccffe23174f1fb3ed81935a7a821bfb426404
     name: mynginx
@@ -11,4 +21,4 @@ entries:
     urls:
     - mynginx-0.1.0.tgz
     version: 0.1.0
-generated: "2026-02-27T10:47:34.3202069+09:00"
+generated: "2026-02-27T11:09:38.6589337+09:00"
